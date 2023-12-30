@@ -2,5 +2,5 @@ var email=true;
 var facebook = true;
 var google= true;
 if(email || facebook|| google){
-    console.log("Login Success");
+    console.log("Login Successful");
 }
